@@ -1,0 +1,11 @@
+1-En az 5 sayfadan oluşacak
+2-Header(Görsel,Logo,Slogan)
+3-Linkler(en az 5 tane)
+4-Galeri(en az 6 Resim)
+5-Resme Tıklanınca büyük olarak gösterecek.
+6-Cv sayfası oluşturulacak.
+  *Önyazı(textarea)
+  *Ad,Soyad,E posta,telefon,cinsiyet(radio)
+  *Erkekler için askerlik durumu(yaptı,yapmadı,muaf) (dropdown)
+  *Diploma,Transcript =>Dosya olarak yükle
+  *Çalışma seçenekleri(evden,yarı zamanlı,tam zamanlı)(checkbox)
