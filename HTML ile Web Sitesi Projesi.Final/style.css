@@ -1,0 +1,54 @@
+body{
+    background-color: skyblue
+}
+.h3{
+    color: seagreen;
+}
+#baslik{
+    color:rgb(132, 0, 255);
+}
+a{
+    color:black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    font-size: large;
+    text-decoration: none;
+}
+a:hover{
+    
+    color: red;
+}
+a:focus{
+    color: blueviolet;
+}
+form input:focus{
+    border: 5px solid tomato;
+
+}
+div b{
+    background-color: black;
+    border:3px solid yellow;
+    color: whitesmoke;
+}
+p::first-letter{
+    background-color: black;
+    color: yellow;
+    font-size: 50px;
+}
+div~h5{
+    background-color: whitesmoke;
+    color: blue;
+}
+li:first-child{
+    color: greenyellow;
+}
+span::after{
+    content: ">>";
+}
+a img:hover{
+    border: 2px solid red;
+}
+i{
+    font-size: 20px;
+    color: red;
+}
